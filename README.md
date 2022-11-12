@@ -1,5 +1,5 @@
 # Convert system.new.dat
-Simple approach to convert system.newdat to img on Ubuntu 14.04 and above
+Simple approach to convert system.new.dat to img on Ubuntu 14.04 and above
 
 What we need: 
 
