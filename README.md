@@ -14,7 +14,7 @@ Lets do it:
   
           mkdir baja
       
-  2. Unpack rom archive and move two file name "system.transfer.list" and system.new.dat" to folder "baja"
+  2. Unpack rom archive and move two file name "system.transfer.list" and "system.new.dat" to folder "baja"
   3. Now open "baja" folder and type this on terminal
   
           wget https://github.com/xpirt/sdat2img/raw/master/sdat2img.py
